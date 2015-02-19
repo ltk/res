@@ -8,3 +8,9 @@ CEO - Viget Labs (1999 - Present)
 - Jane Doe, CEO - Puma
 - John Smith, COO - National Geographic
 - Amanda McFarland, President - General Electric
+
+## Interests
+- Business
+- Deals
+- Working
+- Board Rooms
