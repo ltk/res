@@ -1,3 +1,3 @@
 # Res
 
-Nothing to see here. Move along.
+Switch to a different branch to see a resume catered to a particular target.
