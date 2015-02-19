@@ -9,3 +9,6 @@ Co-Founder & CEO - Viget Labs (1999 - Present)
 
 Co-Founder & Partner - ExecutiveBiz (2004 - 2011)
     Startup numero 2. Grew to significant revenue as CIO before exit.
+
+## Interests
+- Startups
