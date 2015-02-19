@@ -12,3 +12,7 @@ Co-Founder & Partner - ExecutiveBiz (2004 - 2011)
 
 ## Interests
 - Startups
+- Angel Investing
+- Technology
+- Coffee
+- Nerf
